@@ -1,0 +1,36 @@
+.card {
+    border: none;
+    width: 350px;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: fixed;
+    bottom: -35px;
+    right: 20px;
+    background: white;
+ }
+ 
+
+h1, h6  {
+    color: black;
+}
+.form-text{
+    color: rgba(4, 19, 70, 0.904);
+}
+
+.form-label  {
+    color: black ;
+    font-weight: bolder;
+}
+.btn-primary {
+    font-weight: bolder;
+    background: black;
+}
+#RegLogin{
+    color: rgba(0, 17, 255, 0.342);
+    font-weight: bolder;
+    padding-left: 38%;
+}
+.registForm{
+    top: 10px;
+}
