@@ -13,7 +13,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   * Angular (Web Framework)
   * Eclispe (IDE)
   * PostgreSQL (Database)
-  * Javalin (Web FrameWork
+  * Javalin (Web FrameWork)
   * Apache Maven (Dependecy Management)
   * Java (Programming language)
   * Microsoft Visual Studio Code (Source Code Editor)
